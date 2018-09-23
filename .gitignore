@@ -1,0 +1,5 @@
+.DS_Store
+
+# Secret Keys
+Project/secrets_keys.txt
+Project/.DS_Store
